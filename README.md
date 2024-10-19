@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**dac0820/dac0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+    <span>Dhruvil Chandriya</span>
+</h1>
+<div>
+    <p align="left">
+      <a>
+        I am a student of Computer Engineering at Government Polytechnic Jamnagar in Gujarat.    
+      </a>
+    </p>
+</div>
 
-Here are some ideas to get you started:
+<div>
+    <h3 align="left">Connect with me</h3>
+    <a href="dhruvilchandariya@gmail.com" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=5E81AC&color:FFF"/>
+    </a>
+    <a href="https://www.linkedin.com/in/parth-vadodariya-6971ba2a5"target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5E81AC&color:FFF"/>
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <h3 align="center">GitHub Stats</h3>
+    <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+          <img width=500em align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dac0820&&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord&bg_color=EB545400"/>
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://git.io/streak-stats"><img width=500em src="https://streak-stats.demolab.com?user=dac0820&theme=nord&background=EB545400"/></a>
+     </p>    
+     <p align="center">
+<!--         <a href="github.com/anuraghazra/github-readme-stats"> -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dac0820&theme=nord&bg_color=EB545400&layout=compact"/>
+<!--         </a> -->
+    </p>        
+</div>    
