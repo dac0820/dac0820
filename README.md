@@ -10,7 +10,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-chandariya-ba5633333)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dac0820)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvilchandariya@gmail.com)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=dac0820&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -122,8 +122,8 @@ me.say_hi()
 
 <div align="center">
 
-[![Coding Repository](https://github-readme-stats.vercel.app/api/pin/?username=dac0820&repo=coding&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dac0820/coding)
-[![Big Projects](https://github-readme-stats.vercel.app/api/pin/?username=dac0820&repo=big-projects&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dac0820/big-projects)
+[![Coding Repository](https://github-readme-stats.vercel.app/api/pin/?username=dac0820&repo=coding&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dac0820/Minecraft_bots)
+[![Big Projects](https://github-readme-stats.vercel.app/api/pin/?username=dac0820&repo=big-projects&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dac0820/DDNAS)
 
 </div>
 
@@ -167,15 +167,7 @@ me.say_hi()
 
 ---
 
-## 🎵 Spotify Playing
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</div>
-
-*Note: Replace YOUR_SPOTIFY_ID with your actual Spotify ID to enable this feature*
-
----
 
 ## 📫 Connect With Me
 
@@ -185,7 +177,7 @@ me.say_hi()
   |----------|------|
   | 💼 LinkedIn | [dhruvil-chandariya](https://linkedin.com/in/dhruvil-chandariya-ba5633333) |
   | 🐱 GitHub | [@dac0820](https://github.com/dac0820) |
-  | 📧 Email | your.email@example.com |
+  | 📧 Email | (dhruvilchandariya@gmail.com) |
   | 🌐 Portfolio | *Coming Soon* |
 
 </div>
@@ -198,50 +190,6 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/dac0820/dac0820/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-*Note: To enable the snake animation, you need to set up GitHub Actions. See instructions below.*
-
----
-
-<details>
-<summary>📦 Setup Instructions for Advanced Features</summary>
-
-### 🐍 Snake Animation Setup
-
-1. Create `.github/workflows/snake.yml` in your profile repository
-2. Add this code:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: dac0820
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### 🎵 Spotify Integration
-
-1. Go to [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile)
-2. Follow setup instructions
-3. Replace `YOUR_SPOTIFY_ID` in the README
 
 ### 📊 WakaTime Stats (Optional)
 
