@@ -10,12 +10,12 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-chandariya-ba5633333)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dac0820)
- <a href="mailto:dhruvilchandariya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvilchandariya@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=dac0820&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+  ![GitHub followers](https://img.shields.io/github/followers/dac0820?style=for-the-badge&color=blue&label=Followers)
+  ![GitHub Stars](https://img.shields.io/github/stars/dac0820?style=for-the-badge&color=yellow&label=Stars)
 
 </div>
 
@@ -39,9 +39,18 @@ class DhruvilChandariya:
             "Game Development"
         ]
         self.current_focus = ["AI Model Development", "Flutter Apps", "Automation Bots"]
+        self.available_for = ["Freelance Projects", "Collaborations", "Internships"]
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
+    
+    def get_skills(self):
+        return {
+            "languages": ["Python", "Java", "JavaScript", "Dart"],
+            "frameworks": ["Flutter", "TensorFlow", "React", "Node.js"],
+            "tools": ["Git", "VS Code", "Android Studio", "Raspberry Pi"],
+            "databases": ["MySQL", "MongoDB", "SQLite"]
+        }
 
 me = DhruvilChandariya()
 me.say_hi()
@@ -50,6 +59,7 @@ me.say_hi()
 🎓 **Currently Learning:** Advanced AI/ML Models, Network Security, Raspberry Pi Programming  
 🔭 **Working On:** AI Chatbots, Minecraft Automation Bots, Robotics Projects  
 🌱 **Exploring:** Deep Learning, Computer Vision, Cloud Deployment  
+💼 **Open For:** Internships, Freelance Work, Collaboration Opportunities  
 💡 **Fun Fact:** I love participating in hackathons and robotics competitions!
 
 ---
@@ -64,6 +74,8 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ### 📱 Frameworks & Libraries
@@ -73,6 +85,9 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
@@ -80,6 +95,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -92,6 +108,8 @@ me.say_hi()
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/GNS3-008000?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -125,10 +143,19 @@ me.say_hi()
 
 <div align="center">
 
-[![Coding Repository](https://github-readme-stats.vercel.app/api/pin/?username=dac0820&repo=coding&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dac0820/Minecraft_bots)
-[![Big Projects](https://github-readme-stats.vercel.app/api/pin/?username=dac0820&repo=big-projects&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dac0820/DDNAS)
+[![Coding Repository](https://github-readme-stats.vercel.app/api/pin/?username=dac0820&repo=coding&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dac0820/coding)
+[![Big Projects](https://github-readme-stats.vercel.app/api/pin/?username=dac0820&repo=big-projects&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/dac0820/big-projects)
 
 </div>
+
+### 🌟 Notable Projects
+
+- 🤖 **AI Chatbot** - Custom conversational AI using Hugging Face transformers
+- 🎮 **Minecraft Automation Bot** - Intelligent bot with pathfinding algorithms
+- 📱 **Flutter E-Commerce App** - Full-stack mobile application with payment integration
+- 🔒 **Network Security Scanner** - Vulnerability assessment tool using Python
+- 🚗 **Autonomous Driving System** - Raspberry Pi-based robot with computer vision
+- 🌐 **MERN Stack Web App** - Full-featured web application with RESTful API
 
 ---
 
@@ -159,6 +186,18 @@ me.say_hi()
 - 🏆 Win a major hackathon or robotics competition
 - 📚 Learn cloud computing and DevOps
 - 🤝 Collaborate with developers worldwide
+- 📱 Launch a production mobile app on Play Store
+- 🎓 Complete certifications in AI/ML and Cloud Computing
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon: AI Model Optimization Techniques
+- Coming Soon: Building Scalable Flutter Apps
+- Coming Soon: Network Security Best Practices
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -170,18 +209,28 @@ me.say_hi()
 
 ---
 
+## 🎵 Spotify Playing
 
+<div align="center">
+
+[![Spotify](https://novatorem-dac0820.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+</div>
+
+---
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-  | Platform | Link |
-  |----------|------|
-  | 💼 LinkedIn | [dhruvil-chandariya](https://linkedin.com/in/dhruvil-chandariya-ba5633333) |
-  | 🐱 GitHub | [@dac0820](https://github.com/dac0820) |
-  | 📧 Email | dhruvilchandariya@gmail.com |
-  | 🌐 Portfolio | *Coming Soon* |
+  | Platform | Link | Description |
+  |----------|------|-------------|
+  | 💼 LinkedIn | [dhruvil-chandariya](https://linkedin.com/in/dhruvil-chandariya-ba5633333) | Professional Network |
+  | 🐱 GitHub | [@dac0820](https://github.com/dac0820) | Code Repository |
+  | 📧 Email | [dhruvilchandariya@gmail.com](mailto:dhruvilchandariya@gmail.com) | Direct Contact |
+  | 🌐 Portfolio | *Coming Soon* | Projects Showcase |
+  | 💬 Discord | *Add your Discord* | Community Chat |
+  | 🐦 Twitter | *Add your Twitter* | Tech Updates |
 
 </div>
 
@@ -190,17 +239,46 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dac0820/dac0820/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dac0820/dac0820/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dac0820/dac0820/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dac0820/dac0820/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
+---
 
-### 📊 WakaTime Stats (Optional)
+## 💰 Support My Work
 
-Add coding time tracking:
+<div align="center">
 
-```markdown
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight" />
-```
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_USERNAME)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YOUR_USERNAME)
+
+</div>
+
+---
+
+<details>
+<summary>📊 More Stats</summary>
+<br>
+
+### 📈 Coding Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dac0820&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+### 📊 Detailed Language Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
 </details>
 
@@ -210,7 +288,14 @@ Add coding time tracking:
 
 ### 💭 "Code is like humor. When you have to explain it, it's bad!" – Cory House
 
+### ⚡ Fun Fact: I debug with print statements and I'm not ashamed!
+
+### 🎯 2025 Resolution: Write cleaner code, break less things, commit more often!
+
 ### ⭐ From [dac0820](https://github.com/dac0820) | Let's collaborate and build amazing things! 🚀
+
+[![GitHub followers](https://img.shields.io/github/followers/dac0820?label=Follow&style=social)](https://github.com/dac0820)
+[![GitHub stars](https://img.shields.io/github/stars/dac0820?label=Stars&style=social)](https://github.com/dac0820)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 
