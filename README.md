@@ -11,7 +11,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-chandariya-ba5633333)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dac0820)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dhruvilchandariya@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-124836?style=for-the-badge&logo=gmail&logoColor=white)](https://dac0820.github.io/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-124836?style=for-the-badge&logoColor=white)](https://dac0820.github.io/)
   
 
   ![Profile Views](https://komarev.com/ghpvc/?username=dac0820&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
